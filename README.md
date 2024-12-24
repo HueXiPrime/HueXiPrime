@@ -1,5 +1,3 @@
-Okay, here's a cool GitHub profile README based on the provided information, aiming for a blend of intriguing and informative:
-
 - 👋 Hi, I’m @HueXiPrime
 - 👀 I’m interested in exploring the gaps in reality, from my own understanding to where the world hasn't caught up with itself. This includes Artificial Intelligence, Decentralized Finance, Human Connection, Social Dynamics, and bootstrapped startups.
 - 🌱 I’m currently learning by doing: coding, investing, writing, and refining my understanding of CS + Art at USC. Always chasing a deeper understanding.
