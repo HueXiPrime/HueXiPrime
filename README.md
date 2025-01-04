@@ -19,15 +19,15 @@
 
 <!-- GitHub stats -->
 <p align="center">
-  <a href="https://github.com/gnukeith">
-    <img src="https://github-readme-stats.vercel.app/api?username=gnukeith&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="gnukeith's GitHub stats">
+  <a href="https://github.com/huexiprime">
+    <img src="https://github-readme-stats.vercel.app/api?username=huexiprime&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="gnukeith's GitHub stats">
   </a>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gnukeith&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huexiprime&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph">
 </p>
 
 
