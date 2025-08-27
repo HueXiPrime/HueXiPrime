@@ -31,7 +31,7 @@
 </p>
 
 
-Hi, I’m Hue Xi 🎨
+Hi, I’m Hue 🎨
 
 - 🕳️ I’m interested in exploring the gaps in reality, from my own understanding to where the world hasn't caught up with itself. This includes Artificial Intelligence, Decentralized Finance, Human Connection, Social Dynamics, 
 and bootstrapped startups.
