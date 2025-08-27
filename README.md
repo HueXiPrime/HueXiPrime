@@ -1,4 +1,4 @@
-![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=heyyyyy+I'm+huexi.)
+![Typing SVG](http://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&pause=1000&color=FFFFFF&random=false&width=435&lines=heyyyyy+I'm+hue)
 
 
 <div align="center">
